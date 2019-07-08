@@ -3,7 +3,7 @@ package gateway
 import (
 	"encoding/json"
 	"time"
-	"github.com/owenliang/go-push/common"
+	"go-push/common"
 )
 
 type PushBatch struct {

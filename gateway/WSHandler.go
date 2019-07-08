@@ -4,7 +4,7 @@ import (
 	"time"
 	"github.com/gorilla/websocket"
 	"encoding/json"
-	"github.com/owenliang/go-push/common"
+	"go-push/common"
 )
 
 // 每隔1秒, 检查一次连接是否健康

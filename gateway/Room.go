@@ -2,7 +2,7 @@ package gateway
 
 import (
 	"sync"
-	"github.com/owenliang/go-push/common"
+	"go-push/common"
 )
 
 // 房间
